@@ -47,4 +47,12 @@ The system workflow includes:
 4. Train the model using the provided training script.
 5. Use the inference script for real-time classification of solar panel images.
 
-## Folder Structure
+
+## Technologies Used
+- Python
+- PyTorch
+- EfficientNet
+- ResNet
+
+
+
